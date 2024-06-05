@@ -1,3 +1,3 @@
 # testing_app
 
-A new Flutter project.
+Flutter App containing unit, integration and performance tests for a simple favorites list application.
